@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "498731952616",
+    "project_id": "sorting-tome-book-app",
+    "storage_bucket": "sorting-tome-book-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:498731952616:android:8aa2f13848bdccce5a9c5d",
+        "android_client_info": {
+          "package_name": "com.example.sorting_tome_book_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "498731952616-6488f2dnqs4n4t45nceprpede6kcmudf.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.sorting_tome_book_app",
+            "certificate_hash": "663c0b5ab848c66f5497ee82ed88de8a53d5fb52"
+          }
+        },
+        {
+          "client_id": "498731952616-csgheu55v6cb6js99gk3nqb9fp7ithht.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCOMLm4D-X4VD0Cv6QFDeVNjQeuSe9Gpus"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "498731952616-csgheu55v6cb6js99gk3nqb9fp7ithht.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
